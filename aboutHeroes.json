@@ -36,6 +36,16 @@
         "Teleportation",
         "Interdimensional travel"
       ]
+    },
+    {
+      "name" : "YakovLya",
+      "age" : 14,
+      "secretIdentity" : "Yakov Lyahovich",
+      "powers" : [
+        "Coding shitty code",
+        "Learning smth new",
+        "Pank-Rock music"
+      ]
     }
   ]
 }
