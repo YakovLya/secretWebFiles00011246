@@ -1,0 +1,47 @@
+body{
+	background: #ddd;
+	font-family: sans-serif;
+	font-size: 16px;
+	color: #333;
+}
+
+header{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+li{
+	margin: 3px 0;
+	list-style-type: none;
+}
+
+li:before{
+	content: "> ";
+}
+
+.container{
+	width: 75%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.intro{
+	
+}
+
+.about{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.member{
+	display: block;
+	width: 40%;
+	margin: 15px 20px;
+	padding: 10px;
+	border: 1px solid #bbb;
+	border-radius: 5%;
+	background: #ccc;
+}
