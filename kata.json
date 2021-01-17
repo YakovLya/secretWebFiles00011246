@@ -1,0 +1,34 @@
+{
+	"username": "YakovLya",
+	"name": "Yakov Lyahovich",
+	"honor": 123,
+	"clan": "",
+	"leaderboardPosition": null,
+	"skills": [],
+	"ranks": {
+		"overall": {
+			"rank": -6,
+			"name": "6 kyu",
+			"color": "yellow",
+			"score": 107
+		},
+		"languages": {
+			"cpp": {
+				"rank": -8,
+				"name": "8 kyu",
+				"color": "white",
+				"score": 4
+			},
+			"javascript": {
+				"rank": -6,
+				"name": "6 kyu",
+				"color": "yellow",
+				"score": 103
+			}
+		}
+	},
+	"codeChallenges": {
+		"totalAuthored": 0,
+		"totalCompleted": 12
+	}
+}
